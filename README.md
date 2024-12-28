@@ -89,3 +89,9 @@
 - 8266 Feather HUZZAH bluefruit: https://www.adafruit.com/product/2995
 - ESP32 DEVKITV1: https://makeradvisor.com/tools/esp32-dev-board-wi-fi-bluetooth/
 - ESP32-S2-soala-1_V1.2: https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
+- 2x Raspberry Pi Pico W (no headers): https://www.amazon.com/Raspberry-Pi-Pico-Wireless-Bluetooth/dp/B0B5H17CMK
+- 6x Raspberry Pi Pico zero (no headers): https://www.amazon.com/waveshare-RP2040-Zero-Mini-Board-High-Performance/dp/B09PBCT559
+- 1x CardComputer stamp S3: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
+- ESP32 yellow board TFT with case: https://www.amazon.com/Touchscreen-ESP-WROOM-32-Resistive-ESP32-2432S028R-Development/dp/B0CXHPP7DM
+- ESP32 LILYGO TFT: https://www.amazon.com/LILYGO-T-PicoC3-ESP32-C3-Raspberry-Development/dp/B0B3RF87VG
+- 2x ESP8266 D1 mini: https://www.amazon.com/Hosyond-Wireless-Internet-Development-Compatible/dp/B09SPYY61L
