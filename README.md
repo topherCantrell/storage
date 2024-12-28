@@ -95,3 +95,4 @@
 - ESP32 yellow board TFT with case: https://www.amazon.com/Touchscreen-ESP-WROOM-32-Resistive-ESP32-2432S028R-Development/dp/B0CXHPP7DM
 - ESP32 LILYGO TFT: https://www.amazon.com/LILYGO-T-PicoC3-ESP32-C3-Raspberry-Development/dp/B0B3RF87VG
 - 2x ESP8266 D1 mini: https://www.amazon.com/Hosyond-Wireless-Internet-Development-Compatible/dp/B09SPYY61L
+- RP2040-ETH with POE extractor: https://www.waveshare.com/wiki/RP2040-ETH
