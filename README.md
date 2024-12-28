@@ -60,6 +60,32 @@
 # SBC
 - 6502 SBC
 - 6802 SBC
-- HiLo board with 4 buttons, 2 7-segment displays, 74LS47
+- HiLo board with four buttons, 2 7-segment displays, 74LS47
 - Voltage 3.3/5V converter 20 channels
-- ESP8266 with 8 voltage converters 3.3/5V
+- ESP8266 with eight voltage converters 3.3/5V
+
+# MiscMicro
+- pico explorer: https://shop.pimoroni.com/products/pico-explorer-base?variant=32369514315859
+- PyGamer with case: https://learn.adafruit.com/adafruit-pygamer
+- TFT GizMo with battery charger and ornament case: https://www.adafruit.com/product/4367
+- Circuit Playground Express board: https://www.adafruit.com/product/3333
+- Digilent BASYS3 xilinx development: https://www.amazon.com/Digilent-Basys-Artix-7-Trainer-Board/dp/B00NUE1WOG
+- MicroBit board: https://www.amazon.com/ELECFREAKS-BBC-Micro-Programming-Include/dp/B0B2836JNC
+- 2x Arduino UNO: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6
+- P2 Eval: https://www.parallax.com/product/propeller-2-evaluation-board-rev-c/
+- Propeller Project Board Rev D (unassembled): https://www.parallax.com/product/propeller-project-board-usb/
+- 4x PixelProp board: https://github.com/topherCantrell/pixel-PropellerDriver
+- 4x OreoBoard neopixel driver: https://github.com/topherCantrell/pixel-OreoBoard
+- Propeller Board of Education: https://www.ic0nstrux.com/Propeller-Board-Of-Education
+- Propeller Activity Board EX: https://www.parallax.com/product/propeller-activity-board-wx/
+- 2x Propeller Activity Board: https://www.adafruit.com/product/1371
+- Propeller Demo Rev C: http://www.igniteautomation.com/propdemo.html
+- 2x SnapProp/SnapNote propeller board
+- Parallax propeller FLiP: https://www.parallax.com/product/propeller-flip-microcontroller-module/
+- ElectroSmith Daisy board: https://electro-smith.com/products/daisy-seed
+- 2x W5100S-EVB-pico: https://wiznet.io/products/evaluation-boards/w5100s-evb-pico
+- 8266 Feather HUZZAH: https://www.adafruit.com/product/2821
+- 8266 Feather HUZZAH 32: https://www.adafruit.com/product/3405
+- 8266 Feather HUZZAH bluefruit: https://www.adafruit.com/product/2995
+- ESP32 DEVKITV1: https://makeradvisor.com/tools/esp32-dev-board-wi-fi-bluetooth/
+- ESP32-S2-soala-1_V1.2: https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
