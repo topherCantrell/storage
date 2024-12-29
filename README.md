@@ -49,6 +49,19 @@
 
 # Z80
 - Non-functional RC2014 board
+- Parts for Z80 SBC:
+  - ZIF socket for ROM
+  - Green LED
+  - push-button (reset)
+  - power jack
+- Z80 SIO/2: https://smallcomputercentral.com/wp-content/uploads/2018/06/sc104-v1-0-sio2-guide-e1-0-0.pdf
+- 2x 68B50P: https://www.cpcwiki.eu/imgs/3/3f/MC6850.pdf
+- 62256 static ram: https://web.mit.edu/6.115/www/document/62256.pdf
+- Z80ACPUB1 4MHz: https://www.jameco.com/Jameco/Products/ProdDS/35596USERSMANUAL.pdf
+- Z80APIOB1 PIO: https://www.hartetechnologies.com/manuals/Zilog/Zilog%20Z80-PIO%20Technical%20Manual.pdf
+- Z80ADMA DMA: https://datasheet.octopart.com/Z8F0423SJ005EC-Zilog-datasheet-14114258.pdf
+- Z80A DART: https://www.jameco.com/Jameco/Products/ProdDS/2287959.pdf
+- Z80ACTC counter/timer: https://www.futurlec.com/Z80Series/Z80A-CTCpr.shtml
 
 # Robots
 - Cutebot: https://www.elecfreaks.com/micro-bit-smart-cutebot.html
