@@ -109,3 +109,4 @@
 - ESP32 LILYGO TFT: https://www.amazon.com/LILYGO-T-PicoC3-ESP32-C3-Raspberry-Development/dp/B0B3RF87VG
 - 2x ESP8266 D1 mini: https://www.amazon.com/Hosyond-Wireless-Internet-Development-Compatible/dp/B09SPYY61L
 - RP2040-ETH with POE extractor: https://www.waveshare.com/wiki/RP2040-ETH
+- Pico breadboard kit TFT with Pico2 in socket: https://www.aliexpress.us/item/3256805556694867.html
