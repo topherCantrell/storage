@@ -69,6 +69,7 @@
 - 2x Wheel encoders: https://www.amazon.com/gp/product/B00EERJDY4
 - 10x Grove connector breakout: https://www.amazon.com/NGW-4-Jumper-Grove-Conversion-Cable/dp/B07B4RXRPB
 - 2x Maker Pi RP2040 robot controller: https://www.adafruit.com/product/5129
+- 1x Qwiic connector breakout cable: https://www.adafruit.com/product/4397
 
 # SBC
 - 6502 SBC
