@@ -9,7 +9,7 @@
 - GQ-4x4 TrueUSBUniversalProgrammer: https://www.amazon.com/PRG-056-GQ-GQ-4X-universal-Programmer/dp/B00OD7O9G2
 - 4x 27C801 1024Kb (GameBoy)
 - 2x 271001 128Kb (NES)
-- 6x 27512 64Kb
+- 7x 27512 64Kb
 - 4x 27256 32Kb (Single Board Computers)
 - 1x 27128 16Kb
 - 16x 2764 8Kb
@@ -67,7 +67,7 @@
 - Cutebot: https://www.elecfreaks.com/micro-bit-smart-cutebot.html
 - Car chassis: https://www.amazon.com/gp/product/B01LXY7CM3
 - 2x Wheel encoders: https://www.amazon.com/gp/product/B00EERJDY4
-- 9x Grove connector breakout: https://www.amazon.com/NGW-4-Jumper-Grove-Conversion-Cable/dp/B07B4RXRPB
+- 10x Grove connector breakout: https://www.amazon.com/NGW-4-Jumper-Grove-Conversion-Cable/dp/B07B4RXRPB
 - 2x Maker Pi RP2040 robot controller: https://www.adafruit.com/product/5129
 
 # SBC
