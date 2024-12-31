@@ -111,3 +111,62 @@
 - 2x ESP8266 D1 mini: https://www.amazon.com/Hosyond-Wireless-Internet-Development-Compatible/dp/B09SPYY61L
 - RP2040-ETH with POE extractor: https://www.waveshare.com/wiki/RP2040-ETH
 - Pico breadboard kit TFT with Pico2 in socket: https://www.aliexpress.us/item/3256805556694867.html
+
+# Chips
+- 30x 5v/3.3v level shifter board (4 channel)
+- 18x BC546 NPN transistor
+- 100x 1N914 switching diode
+- 100x 1N4148 switching diode
+- 100+ 2-pin jumper short circuit block
+- 8x Solid state relay https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TLP592A-F/1823624
+- 12x EL814 opto isolator
+- SN76477 sound generator https://en.wikipedia.org/wiki/Texas_Instruments_SN76477
+- CD4050B buffer
+- 74HCT125
+- 50x Zener diode SOT-23 surface mount
+- 17x AY-3-8910
+- 2x 74181 4-bit ALU
+- Microprocessors
+  - 9x 6821 PIA
+  - 2x 8284A clock chip
+  - 2x 68B09 CPU
+  - 2x 6502 CPU
+  - 2x 89S52 microcontroller
+  - 65C21 PIA
+  - 2x 16C550 UART
+  - 3x HM62256 32kb static RAM
+  - V20 8088 CPU
+  - MC6850P
+  - R6532AP R.I.O.T
+- 5x 7493
+- 9x 74LS139
+- 4x 74393
+- 12x 7404
+- 35x 74245
+- 20x 74373
+- 4x 74595
+- 5x 74133
+- 20x 4066
+- MCP3008 10-bit ADC
+- 30x 74LS00
+- 20x 74LS74
+- Misc 74xx
+  - 5x 74LS00  
+  - 2x 74LS02
+  - 10x 7404
+  - 74LS08
+  - 7x 74LS32
+  - 7x 74LS47
+  - 2x 74LS86
+  - 7x 74LS90
+  - 5x 74LS138
+  - 2x 74LS245
+- Oscillators
+  - 5x 11.0592MHz (small)
+  - 5MHz (small)
+  - 4x 7.3728MHz (small)
+  - 8x 7.3728MHz
+  - 4x 14.31818MHz
+  - 7x 3.579545MHz
+  - 3x 1MHz
+  - 2MHz
