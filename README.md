@@ -118,8 +118,8 @@
 - 100x 1N914 switching diode
 - 100x 1N4148 switching diode
 - 100+ 2-pin jumper short circuit block
-- 8x Solid state relay https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TLP592A-F/1823624
-- 12x EL814 opto isolator
+- 8x Solid state relay: https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TLP592A-F/1823624
+- 12x EL814 opto isolator: https://hub360.com.ng/product/el814-equivalent-to-pc814-optocoupler/
 - SN76477 sound generator https://en.wikipedia.org/wiki/Texas_Instruments_SN76477
 - CD4050B buffer
 - 74HCT125
@@ -136,31 +136,31 @@
   - 2x 16C550 UART
   - 3x HM62256 32kb static RAM
   - V20 8088 CPU
-  - MC6850P
+  - MC6850P CPU
   - R6532AP R.I.O.T
-- 5x 7493
-- 9x 74LS139
-- 4x 74393
-- 12x 7404
-- 35x 74245
-- 20x 74373
-- 4x 74595
-- 5x 74133
-- 20x 4066
+- 30x 74LS00 NAND
+- 12x 7404 inverter
+- 20x 74LS74 dual D flip-flop
+- 5x 7493 4-bit counter
+- 5x 74133 13-input NAND
+- 9x 74LS139 dual 2-to-4 line demux
+- 35x 74245 bus transceiver
+- 20x 74373 octal latch
+- 4x 74393 4-bit binary counter
+- 4x 74595 8-bit shift register
+- 20x 4066 quad bilateral switch
 - MCP3008 10-bit ADC
-- 30x 74LS00
-- 20x 74LS74
 - Misc 74xx
-  - 5x 74LS00  
-  - 2x 74LS02
-  - 10x 7404
-  - 74LS08
-  - 7x 74LS32
-  - 7x 74LS47
-  - 2x 74LS86
-  - 7x 74LS90
-  - 5x 74LS138
-  - 2x 74LS245
+  - 5x 74LS00 NAND
+  - 2x 74LS02 NOR
+  - 10x 7404 inverter
+  - 74LS08 AND
+  - 7x 74LS32 OR
+  - 7x 74LS47 BCD to 70segment decoder/driver
+  - 2x 74LS86 XOR
+  - 7x 74LS90 decade counter
+  - 5x 74LS138 3-to-8 demux
+  - 2x 74LS245 bus transceiver
 - Oscillators
   - 5x 11.0592MHz (small)
   - 5MHz (small)
