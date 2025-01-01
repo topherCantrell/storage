@@ -171,7 +171,7 @@
   - 3x 1MHz
   - 2MHz
 
-# Resistors Caps
+# Resistors Caps (and headers)
 - Ceramic capacitor kit
 - Electrolytic capacitor kit
 - Single-row header socket kit
