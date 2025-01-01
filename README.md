@@ -189,3 +189,75 @@
 - 25x ~673 1% 0.25w
 - 25x ~118 1% 0.25w
 - 25x ~360 1% 0.25w
+
+# Parts 1
+- Heat shrink tube assortment
+- Heat gun
+- 2x header assortment kit
+- 100x Header Female 4pos with latch
+- 100x Header Male 4 pos
+- 250x Male header pin crimp
+- 250x Female header pin crimp
+- Crimper tool
+- Ribbon cable 12-pin
+- 25x 2-by-6 ICD headers for ribbon cable
+- 3x 40-pin ribbon cable female to female (fits Raspberry Pi)
+- 3x 12-pin ribbon cable female to female
+- 6x 16-pin ribbon cable female to female
+- 8x 20-pin ribbon cable female to female
+
+# Breadboards
+- Misc solderless breadboards
+- Misc breadboard sizes (green)
+- 2x Adfruit half-sized perma-proto: https://www.adafruit.com/product/571
+
+# Misc Boards
+- NFRC
+  - 2x PN532 breakout board with NFRC card: https://www.adafruit.com/product/364
+  - PN532 RFID shield: https://www.adafruit.com/product/789
+  - 2x RFID rings: https://www.adafruit.com/product/2806
+- 2x 8-by-8 bicolor LED matrix backpack (one unassembled): https://www.adafruit.com/product/902
+- 4x relay module: https://www.amazon.com/gp/product/B079FJSYGY
+- LED8KEY board with 8 buttons, 8LEDs, 8 7-segment: https://www.amazon.com/HiLetgo-Digital-TM1638-Display-Arduino/dp/B01D140BT6
+- HCW-132 board with 16 buttons, 8 7-segment: https://www.aliexpress.us/item/3256803607994913.html
+
+# Parts 2
+- Sprint assortment kit
+- DIP chip socket assortment kit
+- 2x brass spacer/standoff screw/nut kit
+- 8x misc standoffs
+- 3x Tnisesm pcb mount screw terminals
+- 4x miniature brass hinges
+- Variable voltage wall wart with misc tips
+- 2x 5V 2A wall wart
+- Barrier strip 8pos screw terminal
+- 7x LED strip connector
+- 10x two-wire connector
+- 2x ZIF socket 32-pin
+- 4x ZIP socket 28-pin
+- Assortment pulley/bands
+- Assortment rubber feet
+- 4x AAA battery slug
+- 4x AA battery slug
+- Misc USB-serial dongles and boards
+- 3x power barrel to screw terminals
+- Misc connectors/plugs
+
+# Parts 4
+- LED assortment kit
+- Round pushbutton assortment kit
+- 2x analog joystick board
+- 4x chokes for cables
+- PCB barrel power jack
+- Small solar panel
+- 20x PCB mount led pushbutton
+- 7x PCB mount audio plug breakout
+- 4x 7-segment display common anode
+- 2x small speakers (one with breadboard mounts)
+- 18x micro blue LEDs
+- 3x hobby servos and horns
+- Battery holder 4-AA with barrel plug
+- Battery holder 2-AA
+- 7x battery holder 3-AA
+- 9x battery holder CR2032 with wires
+- Assorted pushbuttons and slide switches
