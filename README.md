@@ -170,3 +170,22 @@
   - 7x 3.579545MHz
   - 3x 1MHz
   - 2MHz
+
+# Resistors Caps
+- Ceramic capacitor kit
+- Electrolytic capacitor kit
+- Single-row header socket kit
+- Misc headers and sockets
+- 150x 10uf electrolytic 25V
+- 8x 10uf electrolytic 50V
+- 50x 0.1uf
+- 2x 0.01uf
+- 38x 18pF
+- Resistor kit 5%
+- 100x 10K 1% 0.25w
+- 100x 220 1% 0.5w
+- 100x 2.2K 1% 0.5w
+- 100x 100K 1% 0.25w
+- 25x ~673 1% 0.25w
+- 25x ~118 1% 0.25w
+- 25x ~360 1% 0.25w
