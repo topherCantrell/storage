@@ -220,6 +220,10 @@
 - 4x relay module: https://www.amazon.com/gp/product/B079FJSYGY
 - LED8KEY board with 8 buttons, 8LEDs, 8 7-segment: https://www.amazon.com/HiLetgo-Digital-TM1638-Display-Arduino/dp/B01D140BT6
 - HCW-132 board with 16 buttons, 8 7-segment: https://www.aliexpress.us/item/3256803607994913.html
+- 3x breadboard helpers (reset and power)
+- 2x sparkfun coulomb counter: https://www.sparkfun.com/products/12052
+- 3x SR-04 sonar distance sensor: https://www.adafruit.com/product/3942
+- 
 
 # Parts 2
 - Sprint assortment kit
