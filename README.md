@@ -124,7 +124,7 @@
 - CD4050B buffer
 - 74HCT125
 - 50x Zener diode SOT-23 surface mount
-- 17x AY-3-8910
+- 19x AY-3-8910
 - 2x 74181 4-bit ALU
 - Microprocessors
   - 9x 6821 PIA
