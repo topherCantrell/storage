@@ -272,6 +272,16 @@
 - Speaker for microbit: https://www.robotshop.com/products/waveshare-speaker-microbit
 - DHT11 Temperature/humidity module: https://www.amazon.com/gp/product/B079NJ64RV
 - Tiny barcode reader: https://www.adafruit.com/product/5744
+- Class D Audio Power Amp: https://www.amazon.com/gp/product/B0BTBS6JFJ
+- Micro SD card breakout: https://www.adafruit.com/product/254
+- SPI FRAM 256Kb: https://www.adafruit.com/product/4718
+- SCD-40 CO2 sensor: https://www.adafruit.com/product/5187
+- 2x LPS22 Pressure sensor: https://www.adafruit.com/product/4633
+- LIS3DH accelerometer: https://www.adafruit.com/product/2809
+- 2x SHT31D Temperature and humidity: https://www.adafruit.com/product/2857
+- 2x GY-511 LSM303DLHC compass and accelerometer: https://www.amazon.com/gp/product/B07X3GFKYD
+- MCP9808 High accuracy I2C temperature sensor: https://www.adafruit.com/product/1782
+- MLX90393 Magnetometer: https://www.adafruit.com/product/4022
 
 # Parts 2
 - Sprint assortment kit
