@@ -223,7 +223,10 @@
 - 3x breadboard helpers (reset and power)
 - 2x sparkfun coulomb counter: https://www.sparkfun.com/products/12052
 - 3x SR-04 sonar distance sensor: https://www.adafruit.com/product/3942
-- 
+- Radio
+  - Radio module AM/PM radio NXP6686 chip TEF6686: https://www.aliexpress.us/item/3256806833817248.html
+  - 4x RDA5807: https://www.amazon.com/AIHJCNELE-RDA5807M-2-7V-3-6V-RRD-102V2-0-Consumption/dp/B0BVRP1CNR
+  - TEA5767 FM Stereo Radio Module with Antenna: https://www.amazon.com/TEA5767-Stereo-Module-76-108MHZ-Antenna/dp/B0CJM86T6B
 
 # Parts 2
 - Sprint assortment kit
