@@ -263,6 +263,15 @@
   - BIG SOUND
   - METAL TOUCH
   - SMALL SOUND
+- MCP23017 I2C IO Expander: https://www.adafruit.com/product/5346
+- 3x PCF8575 I2C IO Expander: https://www.amazon.com/gp/product/B09DFWS722
+- TCA9548A I2C Multiplexer: https://www.adafruit.com/product/2717
+- FT232H USB GPIO: https://www.adafruit.com/product/2264
+- DS1307 ELEGOO clock module
+- 5x DS3231 clock module: https://www.amazon.com/gp/product/B0CPF8X8NW
+- Speaker for microbit: https://www.robotshop.com/products/waveshare-speaker-microbit
+- DHT11 Temperature/humidity module: https://www.amazon.com/gp/product/B079NJ64RV
+- Tiny barcode reader: https://www.adafruit.com/product/5744
 
 # Parts 2
 - Sprint assortment kit
