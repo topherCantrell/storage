@@ -234,6 +234,35 @@
   - Seven segment display four digits (red) with serial/I2C: https://www.sparkfun.com/products/11442
   - TFTLCD 480x320: https://www.amazon.com/gp/product/B073R7Q8FF
   - LCD display 16-by-2: https://www.adafruit.com/product/181
+- ELEGOO sensor boards
+  - TWO-COLOR
+  - IR EMISSION
+  - RGB LED
+  - 7 COLOR FLASH
+  - LASER EMIT
+  - SMD RGB
+  - TILT-SWITCH
+  - PHOTO-RESISTOR
+  - BUTTON
+  - ACTIVE BUZZER
+  - SHOCK
+  - IR RECEIVER
+  - PASSIVE BUZZER
+  - 18B20 TEMP
+  - RELAY
+  - TEMP AND HUMIDITY
+  - PHOTO-INTERRUPTER
+  - TAP MODULE
+  - TRACKING
+  - AVOIDANCE
+  - WATER LEVEL SENSOR
+  - DIGITAL TEMPERATURE
+  - LINEAR HALL
+  - FLAME
+  - MAGNETIC SPRING
+  - BIG SOUND
+  - METAL TOUCH
+  - SMALL SOUND
 
 # Parts 2
 - Sprint assortment kit
