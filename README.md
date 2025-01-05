@@ -323,3 +323,18 @@
 - 7x battery holder 3-AA
 - 9x battery holder CR2032 with wires
 - Assorted pushbuttons and slide switches
+
+# Current
+- Spare-bedroom clock
+  - EROLEDM0321: https://github.com/topherCantrell/EROLEDM0321
+  - RPi Pico W
+- 3D printed calculator
+  - HCW-132 board with 16 buttons, 8 7-segment: https://www.aliexpress.us/item/3256803607994913.html
+  - First shot at 3D printed parts
+- Home status monitor
+  - Round display: https://www.aliexpress.us/item/3256804295713253.html
+  - USB wallwart (for hacking)
+  - RPi Pico W
+- Merkury panels
+  - Nunchuck
+  - Nunchuck breakout board
