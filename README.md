@@ -284,7 +284,7 @@
 - MLX90393 Magnetometer: https://www.adafruit.com/product/4022
 
 # Parts 2
-- Sprint assortment kit
+- Spring assortment kit
 - DIP chip socket assortment kit
 - 2x brass spacer/standoff screw/nut kit
 - 8x misc standoffs
@@ -304,6 +304,8 @@
 - Misc USB-serial dongles and boards
 - 3x power barrel to screw terminals
 - Misc connectors/plugs
+- 10 single RCA plug PCB mount: https://www.amazon.com/dp/B07G2RFDXF
+- 10 triple RCA plug PCB mount: https://www.amazon.com/dp/B09DC5LJG1
 
 # Parts 4
 - LED assortment kit
