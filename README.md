@@ -337,6 +337,3 @@
   - Round display: https://www.aliexpress.us/item/3256804295713253.html
   - USB wallwart (for hacking)
   - RPi Pico W
-- Merkury panels
-  - Nunchuck
-  - Nunchuck breakout board
